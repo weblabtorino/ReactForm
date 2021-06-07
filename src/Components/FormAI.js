@@ -9,7 +9,7 @@ class FormAI extends Component {
       query: [
         {
           value: "x",
-          text: "Pulsante cc"
+          text: "Pulsante 1"
         },
         {
           value: "y",
